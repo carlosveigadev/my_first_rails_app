@@ -12,9 +12,9 @@ In this project, I built a fully functional Rails application. The entire point 
 
 👤 **Carlos Veiga**
 
-- Github: [@wrakc](https://github.com/wrakc)
-- Twitter: [@carlosveig](https://twitter.com/carlosveig)
-- Linkedin: [chveiga](https://linkedin.com/chveiga)
+- [Github](https://github.com/carlosveigadev)
+- [Twitter](https://twitter.com/carlosveigadev)
+- [Linkedin](https://linkedin.com/carlosveigadev)
 
 ## 🤝 Contributing
 
